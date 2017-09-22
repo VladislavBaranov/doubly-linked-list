@@ -23,7 +23,7 @@ class LinkedList {
         
         this.tail = node;
         
-        this.count++;
+        //this.count++;
           
     }
 
